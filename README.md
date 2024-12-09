@@ -1,4 +1,4 @@
-﻿# AI-Search-Algorithms-Visualizer
+﻿#Graph-Builder-and-Algorithm-Visualizer
  
 # Description
 
